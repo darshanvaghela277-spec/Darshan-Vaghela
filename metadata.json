@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Tiffin Manager",
+  "description": "Offline billing and attendance management for tiffin service owners with WhatsApp-ready summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
